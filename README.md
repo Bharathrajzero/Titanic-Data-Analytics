@@ -240,7 +240,7 @@ This project is licensed under the MIT License.
 **Bharath Raj**
 
 GitHub:
-[https://github.com/bharathraj152004](https://github.com/bharathraj152004)
+[https://github.com/Bharathrajzero](https://github.com/Bharathrajzero)
 
 ---
 
