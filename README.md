@@ -4,6 +4,8 @@ A production‑ready interactive analytics dashboard built using the Titanic dat
 This project demonstrates **data visualization, exploratory analysis, and survival prediction** using modern React tools.
 
 ---
+## Screenshots
+
 
 ## 📊 Features
 - Interactive multi‑tab dashboard  
@@ -16,7 +18,10 @@ This project demonstrates **data visualization, exploratory analysis, and surviv
 - Modular React component architecture  
 
 ---
+## Screenshot 
+![Image Description](IMG-20260509-WA0008.jpg)
 
+---
 ## 🧰 Tech Stack
 
 ### Frontend
