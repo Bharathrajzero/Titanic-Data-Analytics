@@ -5,8 +5,12 @@ This project demonstrates **data visualization, exploratory analysis, and surviv
 
 ---
 ## Screenshots
+<img width="1588" height="1388" alt="51" src="https://github.com/user-attachments/assets/e0437af3-9051-4926-9072-8c0382fe5011" />
+<img width="1920" height="1079" alt="54" src="https://github.com/user-attachments/assets/ceeb246a-c92d-4b86-bcf9-15f68e8b8f21" />
+<img width="1920" height="1079" alt="53" src="https://github.com/user-attachments/assets/2fa6b866-d210-47cb-8747-0bd4b56560a5" />
+<img width="1920" height="1079" alt="52" src="https://github.com/user-attachments/assets/0b4be145-37c3-47e3-a63b-9d555a90e95b" />
 
-
+---
 ## 📊 Features
 - Interactive multi‑tab dashboard  
 - KPI metrics (Passengers, Survival Rate, Average Age, Fare)  
