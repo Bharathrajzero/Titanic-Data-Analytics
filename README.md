@@ -38,7 +38,7 @@ This project demonstrates **data visualization, exploratory analysis, and surviv
 
 ## 📁 Project Structure
 ```text
-titanic-dashboard/
+Titanic-Data-Analytics/
 
 ├── public/
 │   ├── index.html
@@ -71,7 +71,7 @@ titanic-dashboard/
 
 Clone the repository:
 ```bash
-git clone https://github.com/bharathraj152004/titanic-dashboard.git
+git clone https://github.com/bharathraj152004/Titanic-Data-Analytics.git
 cd titanic-dashboard
 ```
 
